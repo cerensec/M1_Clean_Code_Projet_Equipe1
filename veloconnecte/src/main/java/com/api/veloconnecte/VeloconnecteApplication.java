@@ -13,6 +13,9 @@ import model.poc.ICapteur;
 import model.poc.IWheel;
 import model.poc.impl.CapteurPoc;
 import model.poc.impl.WheelPoc;
+import org.springframework.boot.autoconfigure.domain.EntityScan;
+import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
+
 
 @SpringBootApplication
 @EnableScheduling

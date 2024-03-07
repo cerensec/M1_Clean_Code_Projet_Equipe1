@@ -1,4 +1,4 @@
-package model;
+package com.api.veloconnecte.model;
 
 import jakarta.persistence.*;
 import lombok.Getter;
