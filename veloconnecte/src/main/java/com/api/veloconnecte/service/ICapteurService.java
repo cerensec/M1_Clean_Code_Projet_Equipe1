@@ -1,4 +1,4 @@
-package com.api.veloconnecte.serivce;
+package com.api.veloconnecte.service;
 
 public interface ICapteurService {
         

@@ -1,9 +1,9 @@
-package com.api.veloconnecte.serivce.impl;
+package com.api.veloconnecte.service.impl;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.messaging.simp.SimpMessagingTemplate;
 import org.springframework.stereotype.Service;
-import com.api.veloconnecte.serivce.ICapteurService;
+import com.api.veloconnecte.service.ICapteurService;
 
 @Service
 public class CapteurService implements ICapteurService {

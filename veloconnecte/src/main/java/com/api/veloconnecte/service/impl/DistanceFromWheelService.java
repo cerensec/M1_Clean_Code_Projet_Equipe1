@@ -1,7 +1,7 @@
-package com.api.veloconnecte.serivce.impl;
+package com.api.veloconnecte.service.impl;
 
 import org.springframework.stereotype.Service;
-import com.api.veloconnecte.serivce.IDistanceFromWheelService;
+import com.api.veloconnecte.service.IDistanceFromWheelService;
 import model.poc.IWheel;
 
 @Service
